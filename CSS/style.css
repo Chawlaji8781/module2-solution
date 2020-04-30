@@ -28,8 +28,8 @@ section {
 	position: relative;
 }
 
-section p {
-	padding: 10px 
+section > p {
+	padding: 10px; 
 }
 
 
